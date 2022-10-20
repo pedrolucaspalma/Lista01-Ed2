@@ -4,4 +4,4 @@ end
 
 p (1..5).map{|x| fibo(x)}
 
-//Complexidade é O(2^N), pois chamamos a função fib 'n' vezes, e a função fib chama ela mesma recursivamente duas vezes.
+# Complexidade é O(2^N), pois chamamos a função fib 'n' vezes, e a função fib chama ela mesma recursivamente duas vezes.
