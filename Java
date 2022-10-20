@@ -26,3 +26,5 @@ public class Main {
         System.out.println("Reverse: " + string);
     }
 }
+
+//Complexidade é O(n) pois utilizamos somente uma string como entrada da função principal e a percorremos de forma linear usando o for como laço de repetição
